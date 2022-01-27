@@ -1,0 +1,17 @@
+
+1. apmeklētājs 
+ Vārds: Michael 
+ Uzvārds: Jackson 
+ Izvēlētais meistars: Juris 
+ Datums: 14.12 
+ Izvēlētais laiks: 15:00 
+
+ 2. apmeklētājs 
+ Dzimums: s
+ Vārds: s 
+ Uzvārds: s 
+ Telefona numurs: 234432 
+ E-pasts: anced@ 
+ Izvēlētais meistars: Juris 
+ Datums: 12.07 
+ Izvēlētais laiks: 14:00 
