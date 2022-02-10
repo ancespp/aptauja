@@ -66,11 +66,11 @@ f.close()
 print()
 
 
-def clearConsole():
-    command = 'clear'
+def dzest():
+    izdzest = 'clear'
     if os.name in ('nt', 'dos'):  
-        command = 'cls'
-    os.system(command)
+        izdzest = 'cls'
+    os.system(izdzest)
 
-clearConsole()
+dzest()
 print("Paldies ka izvēlējāties Jūčūb skaistumkopšanas salonu!")
