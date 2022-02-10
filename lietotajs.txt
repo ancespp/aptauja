@@ -1,17 +1,80 @@
 
-1. apmeklētājs 
- Vārds: Michael 
- Uzvārds: Jackson 
+  Vārds: Ance 
+ Uzvārds: Spolīte 
+ Dzimums: Sieviete
+ Telefona numurs: 29843067 
+ E-pasts: ance.spolite@vpvg.edu.lv 
  Izvēlētais meistars: Juris 
- Datums: 14.12 
- Izvēlētais laiks: 15:00 
+ Datums: 4.02 
+ Izvēlētais laiks: 18:00 
 
- 2. apmeklētājs 
- Dzimums: s
- Vārds: s 
- Uzvārds: s 
- Telefona numurs: 234432 
- E-pasts: anced@ 
+  Vārds: Ēriks 
+ Uzvārds: Pelsis 
+ Dzimums: Vīrietis
+ Telefona numurs: 2847594 
+ E-pasts: eriks.pelsis@vpvg.edu.lv 
+ Izvēlētais meistars: Laimdota 
+ Datums: 6.02 
+ Izvēlētais laiks: 10:00 
+
+  Vārds: Ivo 
+ Uzvārds: Aļļēns 
+ Dzimums: Sieviete
+ Telefona numurs: 112 
+ E-pasts: ivo.allens@vpvg.edu.lv 
  Izvēlētais meistars: Juris 
- Datums: 12.07 
- Izvēlētais laiks: 14:00 
+ Datums: 2.02 
+ Izvēlētais laiks: 21:00 
+ 
+  Vārds: Mārcis 
+ Uzvārds: Teriņš 
+ Dzimums: Vīrietis
+ Telefona numurs: 911 
+ E-pasts: marcis.terins@vpvg.edu.lv 
+ Izvēlētais meistars: Laimdota 
+ Datums: 3.04 
+ Izvēlētais laiks: 19:00 
+ 
+  Vārds: Māra 
+ Uzvārds: Ozola 
+ Dzimums: Sieviete
+ Telefona numurs: 1188 
+ E-pasts: mara.ozola@vpvg.edu.lv 
+ Izvēlētais meistars: Juris 
+ Datums: 4.02 
+ Izvēlētais laiks: 17:00 
+
+
+   Vārds: Daniels 
+ Uzvārds: Toms 
+ Dzimums: Vīrietis
+ Telefona numurs: 29954305 
+ E-pasts: Daniels.toms@vpvg.edu.lv 
+ Izvēlētais meistars: Juris 
+ Datums: 3.02 
+ Izvēlētais laiks: 17:00 
+ 
+   Vārds: Eriks 
+ Uzvārds: Pelsis 
+ Dzimums: Virietis
+ Telefona numurs: 911 
+ Izvēlētais meistars: Laimdota 
+ Datums: 4.02 
+ Izvēlētais laiks: 10:00 
+ 
+   Vārds: Jamal 
+ Uzvārds: Watermelon 
+ Dzimums: Virietis
+ E-pasts: jamal@vpvg.edu.lv 
+ Izvēlētais meistars: Juris 
+ Datums: 2.02 
+ Izvēlētais laiks: 20:00 
+
+  Vārds: Davids 
+ Uzvārds: Ipatovs 
+ Dzimums: Sieviete
+ Telefona numurs: 911 
+ Izvēlētais meistars: Juris 
+ Datums: 8.02 
+ Izvēlētais laiks: 19:00 
+ 

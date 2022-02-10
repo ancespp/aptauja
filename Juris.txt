@@ -1,0 +1,9 @@
+(ja ievadīsiet tādu pašu laiku kas nav pieejams, tiks ņemts vērā tikai pirmais izrakstītais laiks)
+(4.02 18:00) 
+ (2.02 21:00) 
+ (4.02 17:00) 
+ (3.02 17:00) 
+ (2.02 20:00) 
+
+ (8.02 19:00) 
+ 
